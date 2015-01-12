@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=class\ currency
+comment0.text=\nConstructor\ class\ for\ currencies\n\nVasilis\ G.M.E.\ Fragkas\n7992\ Mathimatiko\ Iwanninwn\nv1.00\n\n
+comment1.params=
+comment1.target=double\ getBase()
+comment2.params=mult
+comment2.target=void\ setBase(double)
+comment3.params=nam\ power
+comment3.target=currency(String,int)
+comment4.target=name
+comment5.params=
+comment5.target=String\ getName()
+comment6.target=base
+comment7.params=power
+comment7.target=double\ find_base(int)
+numComments=8

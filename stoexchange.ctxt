@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=class\ stoexchange
+comment0.text=\nConstructor\ class\ for\ Stock\ Exchanges\n\nVasilis\ G.M.E.\ Fragkas\n7992\ Mathimatiko\ Iwanninwn\nv1.00\n\n
+comment1.params=power
+comment1.target=int\ find_total(int)
+comment2.target=Shares
+comment3.params=a
+comment3.target=void\ addShares(shares)
+comment4.params=power
+comment4.target=int\ find_level(int)
+comment5.target=total
+comment6.params=p
+comment6.target=stoexchange(int)
+comment7.target=level
+numComments=8

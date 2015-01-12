@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=class\ building
+comment0.text=\nConstructor\ class\ for\ Buildings\ (all\ appropriate\ bussinesses\ must\ have\ one)\n\nVasilis\ G.M.E.\ Fragkas\n7992\ Mathimatiko\ Iwanninwn\nv1.00\n\n
+comment1.target=level
+comment10.params=
+comment10.target=int\ getPosition()
+comment11.params=
+comment11.target=int\ getBurgP()
+comment2.params=
+comment2.target=int\ getFloodP()
+comment3.params=
+comment3.target=int\ getQuakeP()
+comment4.params=
+comment4.target=int\ getFireP()
+comment5.target=Location
+comment6.params=
+comment6.target=int\ getLevel()
+comment7.params=Street\ PID
+comment7.target=building(StreetNode,int)
+comment8.params=Street\ PID\ le\ qu\ fl\ fi\ bu
+comment8.target=building(StreetNode,int,int,int,int,int,int)
+comment9.target=protection
+numComments=12

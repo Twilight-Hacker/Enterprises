@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=class\ player
+comment0.text=\nConstructor\ class\ for\ players\n\nVasilis\ G.M.E.\ Fragkas\n7992\ Mathimatiko\ Iwanninwn\nv1.00\n\n
+comment1.target=Name
+comment2.target=ID
+comment3.target=location
+comment4.target=GPS
+comment5.params=i\ n
+comment5.target=player(int,String)
+comment6.target=score
+comment7.target=Central
+numComments=8

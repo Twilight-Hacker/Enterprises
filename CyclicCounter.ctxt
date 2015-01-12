@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=class\ CyclicCounter
+comment0.text=\nClass\ constructor\ for\ the\ counters\ of\ the\ clock\ of\ world\ game\ of\ Enterprizes\n\nVasilis\ G.M.E.\ Fragkas\n7992\ Mathimatiko\ Iwanninwn\nv1.00\n\n
+comment1.target=counter
+comment2.params=
+comment2.target=void\ increace()
+comment3.target=limit
+comment4.params=lim
+comment4.target=CyclicCounter(int)
+comment5.params=
+comment5.target=void\ reset()
+comment6.params=value
+comment6.target=void\ setCounter(int)
+comment7.params=
+comment7.target=int\ getCounter()
+comment8.params=value
+comment8.target=void\ setLimit(int)
+comment9.params=
+comment9.target=int\ getLimit()
+numComments=10

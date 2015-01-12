@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=class\ bank
+comment0.text=\nClass\ Constructor\ for\ banks.\n\nVasilis\ G.M.E.\ Fragkas\n7992\ Mathimatiko\ Iwanninwn\nv1.00\n\n
+comment1.target=pers
+comment10.params=
+comment10.target=int\ get_freq()
+comment11.target=ID
+comment12.params=
+comment12.target=int\ get_key()
+comment12.text=\nConstructor\ for\ player\ banks\npublic\ bank(){\ //na\ for\ name,\ I\ is\ for\ ID,\ pn\ for\ player\ number\n\n}\n\n
+comment13.target=key
+comment14.params=i
+comment14.target=double\ find_mini(double)
+comment2.target=name
+comment3.target=freq
+comment4.target=base
+comment5.target=accounts
+comment6.params=
+comment6.target=double\ find_interest()
+comment7.params=na\ I\ pn
+comment7.target=bank(String,int,int)
+comment8.params=
+comment8.target=double\ find_maxl()
+comment9.params=
+comment9.target=int\ get_base()
+numComments=15

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Clock()
+comment1.params=
+comment1.target=int\ getDate()
+comment2.params=
+comment2.target=int\ getMonth()
+comment3.params=
+comment3.target=int\ getYear()
+comment4.params=
+comment4.target=int\ getHours()
+comment5.params=
+comment5.target=int\ getMinutes()
+comment6.params=
+comment6.target=void\ tick()
+numComments=7

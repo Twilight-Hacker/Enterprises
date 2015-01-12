@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=class\ StreetList
+comment0.text=\nConstructor\ class\ for\ street\ lists\ (one\ (and\ only)\ list\ for\ each\ city)\n\nVasilis\ G.M.E.\ Fragkas\n7992\ Mathimatiko\ Iwanninwn\nv1.00\n\n
+comment1.params=
+comment1.target=char\ getChar()
+comment10.params=position
+comment10.target=StreetNode\ GetStreet(int)
+comment2.params=l
+comment2.target=String\ code(int)
+comment3.params=
+comment3.target=int\ getNextPosition()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.target=first
+comment6.params=s\ c\ d
+comment6.target=StreetList(int,int,int)
+comment7.params=Street
+comment7.target=void\ AddStreet(StreetNode)
+comment8.target=a
+comment9.target=last
+numComments=11
